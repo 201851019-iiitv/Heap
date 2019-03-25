@@ -1,2 +1,2 @@
 # Heap
-it is max ,where you can insert delete data and get max value.
+it is max heap,where you can insert delete data and get max value.
